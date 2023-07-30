@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.title-button-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.title {
+  margin: 0;
+}
+.editButton {
+  color: black !important;
+}
+
+.deleteButton {
+  color: red !important;
+}
+
+.actionsButton {
+  cursor: pointer;
+  margin-left: 20px;
+  text-decoration: "none";
+  color: "inherit";
+}
+
+.grid-container {
+  height: 60%;
+  width: 80%;
+}
