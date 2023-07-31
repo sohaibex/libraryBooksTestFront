@@ -35,3 +35,31 @@
   height: 60%;
   width: 80%;
 }
+
+.grid-container {
+  position: relative;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.ag-header-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ag-header-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  text-align: center !important;
+}
+
+.ag-header-cell-label {
+  justify-content: center;
+}
